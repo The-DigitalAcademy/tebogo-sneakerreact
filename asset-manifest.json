@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tebogo-sneakerreact/static/css/main.073c9b0a.css",
+    "main.js": "/tebogo-sneakerreact/static/js/main.269b2fa5.js",
+    "index.html": "/tebogo-sneakerreact/index.html",
+    "main.073c9b0a.css.map": "/tebogo-sneakerreact/static/css/main.073c9b0a.css.map",
+    "main.269b2fa5.js.map": "/tebogo-sneakerreact/static/js/main.269b2fa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.269b2fa5.js"
+  ]
+}
